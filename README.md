@@ -14,5 +14,8 @@ Details about the NIST Reference Materials, data, and future plans are at https:
 Bioproject page: http://www.ncbi.nlm.nih.gov/bioproject/PRJNA200694
 <br /><br />
 SRA Run Selector page: http://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA200694
-<br/ ><br />
+<br / ><br />
 ftp site: ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/
+<br /><br />
+Amazon AWS S3 bucket:  s3://giab
+<br /><br /> 
