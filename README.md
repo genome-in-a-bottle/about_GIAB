@@ -17,5 +17,5 @@ SRA Run Selector page: http://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA200694
 <br / ><br />
 Amazon AWS S3 bucket:  s3://giab
 <br /><br />
-GIAB Main ftp site: ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/
+GIAB Main ftp site: ftp://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/
 <br /><br /> 
